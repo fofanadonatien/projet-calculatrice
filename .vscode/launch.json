@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/donat/OneDrive/Bureau/NOUVEAU PARCOURS DATA ANALYST/mes cours/semestre l2 S4/INFO404(projet logiciel)/TP/Nouveau dossier/TP4/Projet calculatrice avec langage C",
+      "program": "c:/Users/donat/OneDrive/Bureau/NOUVEAU PARCOURS DATA ANALYST/mes cours/semestre l2 S4/INFO404(projet logiciel)/TP/Nouveau dossier/TP4/Projet calculatrice avec langage C/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
